@@ -3,9 +3,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+ARIA+ZEUS;I'm+23+years+old;I+am+full+stack+developer+from+Iran;I+study+NFT+systems+and+polkadot+development;Greething's!)
 
 <div align="center">  
-  <img width="56%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ARIA-ZEUS github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARIA-ZEUS&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="310"  alt="ARIA-ZEUS" />
+  <img width="56%" height="195px"
+    src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&show_icons=true&rank_icon=github&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+    alt="ARIA-ZEUS github stats" /> 
+
+  <img width="41%" height="195px"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ARIA-ZEUS&layout=compact&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40"
+    alt="ARIA-ZEUS top langs" />
 </div>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ARIA-ZEUS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
