@@ -78,10 +78,7 @@
 <br/>
 
 <!-- VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ARIA-ZEUS&label=Profile%20views&color=a70fe4&style=for-the-badge" alt="ARIA-ZEUS profile views" />
-</p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=king-xorse&label=Profile%20views&color=a70fe4&style=for-the-badge" alt="king-xorse" /> </p>
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5204ee&height=120&section=footer"/>
