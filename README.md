@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARIA-ZEUS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ARIA-ZEUS&theme=dracula&no-bg=true&no-frame=true&row=1&column=3&rank=-C" />
 </p>
 
 <div align="center">  
