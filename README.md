@@ -2,6 +2,7 @@
 <!-- INTRO -->
 <div align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ARIA+ZEUS;Full+Stack+Developer;NFT+%26+Polkadot+Researcher;Based+in+Iran) </div>
 <br/>
+
 <!-- STATS -->
 <div align="center">
   <img
@@ -15,6 +16,7 @@
     alt="ARIA-ZEUS top languages"
   />
 </div>
+
 
 <!-- TROPHIES -->
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ARIA-ZEUS&theme=dracula&no-bg=true&no-frame=true&row=1&column=3&rank=-C" /> </p>
