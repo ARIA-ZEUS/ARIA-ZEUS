@@ -10,21 +10,8 @@
 <br/>
 
 <!-- STATS -->
-<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&show_icons=true&include_all_commits=true&rank_icon=percentile&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-    width="55%"
-    alt="ARIA-ZEUS GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ARIA-ZEUS&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40"
-    width="40%"
-    alt="ARIA-ZEUS Top Languages"
-  />
-
-</div>
+<div align="center"> <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&show_icons=true&include_all_commits=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ARIA-ZEUS github stats" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARIA-ZEUS&layout=compact&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ARIA-ZEUS top langs" /> </div>
 
 
 <br/>
