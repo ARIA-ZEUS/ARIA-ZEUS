@@ -4,19 +4,7 @@
 <br/>
 
 <!-- STATS -->
-<div align="center">
-  <img
-    width="55%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARIA-ZEUS&theme=dracula"
-    alt="ARIA-ZEUS GitHub stats"
-  />
-  <img
-    width="40%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARIA-ZEUS&theme=dracula"
-    alt="ARIA-ZEUS top languages"
-  />
-</div>
-
+<div align="center"> <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&show_icons=true&include_all_commits=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ARIA-ZEUS github stats" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARIA-ZEUS&layout=compact&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ARIA-ZEUS top langs" /> </div> <br/>
 
 <!-- TROPHIES -->
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ARIA-ZEUS&theme=dracula&no-bg=true&no-frame=true&row=1&column=3&rank=-C" /> </p>
