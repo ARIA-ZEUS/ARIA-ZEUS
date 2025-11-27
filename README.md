@@ -3,7 +3,7 @@
 <!-- INTRO -->
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ARIA+ZEUS;Full+Stack+Developer;NFT+%26+Polkadot+Researcher;Based+in+Iran)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ARIA+ZEUS;Full+Stack+Developer;NFT+%26+Polkadot+Researcher;ZEUS+TEAM+CREATOR)
 
 </div>
 
@@ -11,10 +11,15 @@
 
 <!-- STATS -->
 
-<div align="center"> <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&show_icons=true&include_all_commits=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ARIA-ZEUS github stats" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARIA-ZEUS&layout=compact&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ARIA-ZEUS top langs" /> </div>
-
+<!-- SOCIAL -->
+<div align="center">  
+  <a href="https://discord.gg/88JKD5CyUY" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</div>
 
 <br/>
+
 
 <!-- TROPHIES -->
 <p align="center">
