@@ -9,28 +9,25 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<div align="center">  
+  <!-- GitHub Stats -->
+  <img
+    width="56%"
+    height="195px"
+    src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=bf00ff&icon_color=df4aff&text_color=dcb3ff&bg_color=0,000000,250041&border_color=bf00ff"
+    alt="ARIA-ZEUS GitHub stats"
+  />
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&show_icons=true&title_color=bf00ff&icon_color=df4aff&text_color=dcb3ff&bg_color=00000000&border_color=bf00ff"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIA-ZEUS&layout=compact&title_color=bf00ff&icon_color=df4aff&text_color=dcb3ff&bg_color=00000000&border_color=bf00ff"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
+  <!-- Top Languages -->
+  <img
+    width="41%"
+    height="195px"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ARIA-ZEUS&show_icons=true&locale=en&layout=compact&line_height=20&title_color=bf00ff&icon_color=df4aff&text_color=dcb3ff&bg_color=0,000000,250041&border_color=bf00ff"
+    alt="ARIA-ZEUS Top Languages"
+  />
 </div>
+
 
 
 
