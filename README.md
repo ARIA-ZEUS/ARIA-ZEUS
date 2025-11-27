@@ -9,39 +9,30 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
+<div align="center">
   <table>
     <tr>
       <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS
-          &show_icons=true
-          &title_color=bf00ff
-          &icon_color=df4aff
-          &text_color=dcb3ff
-          &bg_color=00000000
-          &border_color=bf00ff" 
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&show_icons=true&title_color=bf00ff&icon_color=df4aff&text_color=dcb3ff&bg_color=00000000&border_color=bf00ff"
           alt="GitHub Stats"
         />
       </td>
-
       <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIA-ZEUS
-          &layout=compact
-          &title_color=bf00ff
-          &icon_color=df4aff
-          &text_color=dcb3ff
-          &bg_color=00000000
-          &border_color=bf00ff" 
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIA-ZEUS&layout=compact&title_color=bf00ff&icon_color=df4aff&text_color=dcb3ff&bg_color=00000000&border_color=bf00ff"
           alt="Top Languages"
         />
       </td>
     </tr>
   </table>
-
 </div>
+
+
 
 
 <!-- TROPHIES -->
