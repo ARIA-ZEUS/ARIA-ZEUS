@@ -9,6 +9,26 @@
 
 <br/>
 
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=ARIA-ZEUS&show_icons=true&theme=tokyonight" 
+          alt="GitHub Stats" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIA-ZEUS&layout=compact&theme=tokyonight" 
+          alt="Top Languages" 
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <!-- TROPHIES -->
 <p align="center">
