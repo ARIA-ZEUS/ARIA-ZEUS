@@ -8,27 +8,26 @@
 
 </div>
 
+
 <!-- ABOUT -->
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%231CE8FF" width="25" height="25" alt="Profile" /> About Me
 
-I'm **Aria (ARIA ZEUS)**, a **Software Engineer & Full-Stack Developer** and **CEO of ZEUS Development Team**. I build web applications, developer tools, and custom game systems with a focus on security, maintainability, and performance.
+I'm **Aria (ARIA ZEUS)**, a **Software Engineer & Full-Stack Developer** and **CEO of ZEUS Development Team**.
 
-My work covers full-stack development, API integrations, automation, deployment, and production troubleshooting.
+I build and maintain web applications, developer tools, and custom game systems, with a focus on secure architecture, performance, and maintainable code.
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://api.iconify.design/lucide/code-xml.svg?color=%231CE8FF" width="17" height="17" alt="Development" />
+  &nbsp;<strong>Full-Stack Engineering</strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="https://api.iconify.design/lucide/workflow.svg?color=%231CE8FF" width="17" height="17" alt="Architecture" />
+  &nbsp;<strong>System Architecture</strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="https://api.iconify.design/lucide/shield-check.svg?color=%231CE8FF" width="17" height="17" alt="Security" />
+  &nbsp;<strong>Security & Automation</strong>
+</p>
 
-<div align="center">
-  <img
-    width="55%"
-    src="https://github-stats-extended.vercel.app/api?username=ARIA-ZEUS&show_icons=true&include_all_commits=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-    alt="ARIA-ZEUS GitHub stats"
-  />
-  <img
-    width="40%"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=ARIA-ZEUS&layout=compact&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40"
-    alt="ARIA-ZEUS top languages"
-  />
-</div>
+
 
 <!-- TROPHIES -->
 <p align="center">
@@ -40,17 +39,52 @@ My work covers full-stack development, API integrations, automation, deployment,
   <sub>Community-generated GitHub trophies · <a href="https://github.com/soulteary/github-profile-trophy">Open-source project</a></sub>
 </p>
 
+
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%231CE8FF" width="25" height="25" alt="Projects" /> Featured Projects
 
-**[RocoShop](https://rocoshop.ir) — E-commerce & Digital Products**  
-A Laravel-based platform for digital products, with custom product workflows, account systems, integrations, and deployment operations.
-
-**Roptimizer — Asset Optimization CLI**  
-A Python tool for batch optimization of MTA:SA TXD/DFF assets, including validation, backups, and reporting. *Commercial project · Source private.*
-
-**Game Systems & UI — MTA:SA / FiveM**  
-Custom Lua gameplay systems, user interfaces, and server integrations. *Client-specific source code and project details remain private.*
+<table>
+  <tr>
+    <td width="76" align="center">
+      <img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%231CE8FF" width="40" height="40" alt="E-commerce" />
+    </td>
+    <td>
+      <strong><a href="https://rocoshop.ir">RocoShop</a></strong>
+      <br />
+      <sub>E-commerce & Digital Products</sub>
+      <p>A Laravel-based digital products platform with custom product management, authentication workflows, integrations, and deployment operations.</p>
+      <code>Laravel</code> <code>PHP</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" align="center">
+      <img src="https://api.iconify.design/lucide/gauge.svg?color=%231CE8FF" width="40" height="40" alt="Optimization" />
+    </td>
+    <td>
+      <strong>Roptimizer</strong>
+      <br />
+      <sub>Asset Optimization CLI</sub>
+      <p>A Python tool for batch optimization of MTA:SA TXD/DFF assets with validation, backups, and detailed reporting.</p>
+      <code>Python</code> <code>CLI</code> <code>Asset Processing</code>
+      <br />
+      <sub>Commercial project · Source private</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" align="center">
+      <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%231CE8FF" width="40" height="40" alt="Game Development" />
+    </td>
+    <td>
+      <strong>Game Systems & UI</strong>
+      <br />
+      <sub>MTA:SA / FiveM Development</sub>
+      <p>Custom gameplay systems, interactive interfaces, and server integrations developed for multiplayer environments.</p>
+      <code>Lua</code> <code>MTA:SA</code> <code>FiveM</code>
+      <br />
+      <sub>Client-specific source code and details remain private</sub>
+    </td>
+  </tr>
+</table>
 
 <!-- SOCIAL -->
 <div align="center">
