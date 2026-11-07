@@ -53,11 +53,16 @@ My work goes beyond writing features: I handle third-party integrations, deploym
 <!-- FEATURED PROJECTS -->
 ## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%231CE8FF" width="22" height="22" alt="" /> Featured Projects
 
-### <img src="https://api.iconify.design/lucide/store.svg?color=%231CE8FF" width="21" height="21" alt="" /> [RocoShop](https://rocoshop.ir)
+### <img src="https://api.iconify.design/lucide/store.svg?color=%231CE8FF" width="21" height="21" alt="" /> [RocoShop](https://github.com/ARIA-ZEUS/RocoShop-Showcase)
 
-A Laravel-based digital storefront with product publishing, authentication workflows, third-party integrations, and Git-based deployment.
+A production-oriented polyglot commerce platform spanning web applications, custom APIs, machine learning, media processing, and automated operations.
 
-<sub><code>Laravel</code> <code>PHP</code> <code>MySQL</code></sub>
+<sub><code>Polyglot</code> <code>PHP / Laravel</code> <code>Python</code> <code>AI / ML</code> <code>APIs</code></sub>
+
+<a href="https://rocoshop.ir">
+  <img src="https://img.shields.io/badge/Visit%20Live%20Platform-0D1117?style=for-the-badge&logo=googlechrome&logoColor=1CE8FF" alt="Visit RocoShop" />
+</a>
+
 
 
 
