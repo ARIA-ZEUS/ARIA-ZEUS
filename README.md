@@ -24,7 +24,7 @@
 
 <!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ARIA-ZEUS&theme=dracula&no-bg=true&no-frame=true&row=1&column=3&rank=-C" alt="ARIA-ZEUS GitHub trophies" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ARIA-ZEUS&theme=dracula&no-bg=true&no-frame=true&row=2&column=4" alt="ARIA-ZEUS GitHub trophies" />
 </p>
 
 <br/>
