@@ -75,11 +75,15 @@ A Python CLI for optimizing MTA:SA TXD/DFF assets with RenderWare validation, co
 </a>
 
 
-### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%231CE8FF" width="21" height="21" alt="" /> Game Systems & UI
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%231CE8FF" width="21" height="21" alt="" /> [Game Systems & UI](https://github.com/ARIA-ZEUS/Game-Systems-Showcase)
 
-Custom MTA:SA Lua resources, gameplay interfaces, and FiveM server integrations. Client-specific source code remains private.
+Custom multiplayer systems, DX-rendered interfaces, gameplay mechanics, and client-server integrations for MTA:SA and FiveM.
 
-<sub><code>Lua</code> <code>MTA:SA</code> <code>FiveM</code></sub>
+<sub><code>Lua</code> <code>MTA:SA</code> <code>FiveM</code> <code>DX Rendering</code></sub>
+
+<a href="https://github.com/ARIA-ZEUS/Game-Systems-Showcase">
+  <img src="https://img.shields.io/badge/View%20Showcase-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore Game Systems Showcase" />
+</a>
 
 
 
