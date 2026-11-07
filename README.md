@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5204ee&height=120&section=header"/>
 
 <!-- INTRO -->
@@ -5,8 +6,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1CE8FF&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+ARIA+ZEUS;SOFTWARE+ENGINEER;FULL-STACK+DEVELOPER;SYSTEM+ARCHITECTURE+%26+AUTOMATION;CEO+OF+ZEUS+DEVELOPMENT+TEAM)
 
-
 </div>
+
+<!-- ABOUT -->
+## 👨‍💻 About Me
+
+I'm **Aria (ARIA ZEUS)**, a **Software Engineer & Full-Stack Developer** and **CEO of ZEUS Development Team**. I build web applications, developer tools, and custom game systems with a focus on security, maintainability, and performance.
+
+My work covers full-stack development, API integrations, automation, deployment, and production troubleshooting.
 
 ## 📊 GitHub Stats
 
@@ -33,6 +40,17 @@
   <sub>Community-generated GitHub trophies · <a href="https://github.com/soulteary/github-profile-trophy">Open-source project</a></sub>
 </p>
 
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+**[RocoShop](https://rocoshop.ir) — E-commerce & Digital Products**  
+A Laravel-based platform for digital products, with custom product workflows, account systems, integrations, and deployment operations.
+
+**Roptimizer — Asset Optimization CLI**  
+A Python tool for batch optimization of MTA:SA TXD/DFF assets, including validation, backups, and reporting. *Commercial project · Source private.*
+
+**Game Systems & UI — MTA:SA / FiveM**  
+Custom Lua gameplay systems, user interfaces, and server integrations. *Client-specific source code and project details remain private.*
 
 <!-- SOCIAL -->
 <div align="center">
