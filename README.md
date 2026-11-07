@@ -24,10 +24,14 @@
 
 <!-- TROPHIES -->
 <p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ARIA-ZEUS&theme=dracula&no-bg=true&no-frame=true&row=2&column=4" alt="ARIA-ZEUS GitHub trophies" />
+  <a href="https://github.com/soulteary/github-profile-trophy">
+    <img src="./profile/trophy.svg" alt="GitHub activity trophies" />
+  </a>
+</p>
+<p align="center">
+  <sub>Community-generated GitHub trophies · <a href="https://github.com/soulteary/github-profile-trophy">Open-source project</a></sub>
 </p>
 
-<br/>
 
 <!-- SOCIAL -->
 <div align="center">
