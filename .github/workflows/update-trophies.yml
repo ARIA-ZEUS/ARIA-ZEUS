@@ -1,0 +1,44 @@
+
+name: Update GitHub Profile Trophies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * 1'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-trophies-main
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'ARIA-ZEUS/ARIA-ZEUS' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophies
+        uses: soulteary/github-profile-trophy-action@125fa2a58eb7feac88ee09c9fd4acad45c7c6987
+        with:
+          options: 'username=ARIA-ZEUS&theme=dracula&no-bg=true&no-frame=true&row=2&column=4&margin-w=12&margin-h=12'
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          version: v1.1.1
+
+      - name: Commit updated trophies
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophy.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: update profile trophies"
+          git push
