@@ -9,23 +9,32 @@
 </div>
 
 
+
 <!-- ABOUT -->
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%231CE8FF" width="25" height="25" alt="Profile" /> About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%231CE8FF" width="22" height="22" alt="" /> About Me
 
-I'm **Aria (ARIA ZEUS)**, a **Software Engineer & Full-Stack Developer** and **CEO of ZEUS Development Team**.
+I'm **Aria (ARIA ZEUS)**, a software developer working across web platforms, automation tools, and multiplayer game systems.
 
-I build and maintain web applications, developer tools, and custom game systems, with a focus on secure architecture, performance, and maintainable code.
+My work goes beyond writing features: I handle third-party integrations, deployment workflows, production debugging, and long-term maintenance. I prioritize secure implementations, controlled releases, and changes that can be tested and verified.
 
-<p>
-  <img src="https://api.iconify.design/lucide/code-xml.svg?color=%231CE8FF" width="17" height="17" alt="Development" />
-  &nbsp;<strong>Full-Stack Engineering</strong>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/lucide/workflow.svg?color=%231CE8FF" width="17" height="17" alt="Architecture" />
-  &nbsp;<strong>System Architecture</strong>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/lucide/shield-check.svg?color=%231CE8FF" width="17" height="17" alt="Security" />
-  &nbsp;<strong>Security & Automation</strong>
-</p>
+
+
+<!-- GITHUB STATS -->
+## <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%231CE8FF" width="22" height="22" alt="" /> GitHub Stats
+
+<div align="center">
+  <img
+    width="55%"
+    src="https://github-stats-extended.vercel.app/api?username=ARIA-ZEUS&show_icons=true&include_all_commits=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+    alt="ARIA-ZEUS GitHub stats"
+  />
+  <img
+    width="40%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ARIA-ZEUS&layout=compact&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40"
+    alt="ARIA-ZEUS top languages"
+  />
+</div>
+
 
 
 
@@ -40,51 +49,35 @@ I build and maintain web applications, developer tools, and custom game systems,
 </p>
 
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%231CE8FF" width="25" height="25" alt="Projects" /> Featured Projects
 
-<table>
-  <tr>
-    <td width="76" align="center">
-      <img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%231CE8FF" width="40" height="40" alt="E-commerce" />
-    </td>
-    <td>
-      <strong><a href="https://rocoshop.ir">RocoShop</a></strong>
-      <br />
-      <sub>E-commerce & Digital Products</sub>
-      <p>A Laravel-based digital products platform with custom product management, authentication workflows, integrations, and deployment operations.</p>
-      <code>Laravel</code> <code>PHP</code> <code>MySQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="76" align="center">
-      <img src="https://api.iconify.design/lucide/gauge.svg?color=%231CE8FF" width="40" height="40" alt="Optimization" />
-    </td>
-    <td>
-      <strong>Roptimizer</strong>
-      <br />
-      <sub>Asset Optimization CLI</sub>
-      <p>A Python tool for batch optimization of MTA:SA TXD/DFF assets with validation, backups, and detailed reporting.</p>
-      <code>Python</code> <code>CLI</code> <code>Asset Processing</code>
-      <br />
-      <sub>Commercial project · Source private</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="76" align="center">
-      <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%231CE8FF" width="40" height="40" alt="Game Development" />
-    </td>
-    <td>
-      <strong>Game Systems & UI</strong>
-      <br />
-      <sub>MTA:SA / FiveM Development</sub>
-      <p>Custom gameplay systems, interactive interfaces, and server integrations developed for multiplayer environments.</p>
-      <code>Lua</code> <code>MTA:SA</code> <code>FiveM</code>
-      <br />
-      <sub>Client-specific source code and details remain private</sub>
-    </td>
-  </tr>
-</table>
+<!-- FEATURED PROJECTS -->
+## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%231CE8FF" width="22" height="22" alt="" /> Featured Projects
+
+### <img src="https://api.iconify.design/lucide/store.svg?color=%231CE8FF" width="21" height="21" alt="" /> [RocoShop](https://rocoshop.ir)
+
+A Laravel-based digital storefront with product publishing, authentication workflows, third-party integrations, and Git-based deployment.
+
+<sub><code>Laravel</code> <code>PHP</code> <code>MySQL</code></sub>
+
+
+### <img src="https://api.iconify.design/lucide/file-cog.svg?color=%231CE8FF" width="21" height="21" alt="" /> Roptimizer
+
+A Python CLI for optimizing MTA:SA TXD/DFF assets with RenderWare validation, configurable optimization profiles, automatic backups, and JSON reporting.
+
+<sub><code>Python</code> <code>CLI</code> <code>RenderWare</code></sub>
+
+<a href="https://youtu.be/e7iSq0tSUxU">
+  <img src="https://img.shields.io/badge/Watch%20Showcase-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Roptimizer Showcase on YouTube" />
+</a>
+
+
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%231CE8FF" width="21" height="21" alt="" /> Game Systems & UI
+
+Custom MTA:SA Lua resources, gameplay interfaces, and FiveM server integrations. Client-specific source code remains private.
+
+<sub><code>Lua</code> <code>MTA:SA</code> <code>FiveM</code></sub>
+
+
 
 <!-- SOCIAL -->
 <div align="center">
@@ -95,42 +88,47 @@ I build and maintain web applications, developer tools, and custom game systems,
 
 <br/>
 
+
 <!-- SKILLS -->
 ## 🧠 Main Skills
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)&nbsp;
 
 <br/>
 
-## 🛠 Tools
-![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-0D1117?style=for-the-badge&logo=visual-studio&logoColor=b204ee&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117)&nbsp;
-![macOS](https://img.shields.io/badge/-macOS-0D1117?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=DD0031&labelColor=0D1117)&nbsp;
+## 🛠️ Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="19" height="19" alt="Visual Studio" />&nbsp;![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2020--2026-0D1117?style=for-the-badge)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6)&nbsp;
+![macOS](https://img.shields.io/badge/-macOS-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 
 <br/>
 
 ## 📚 Other Knowledge
-![Solidity](https://img.shields.io/badge/-Solidity-0D1117?style=for-the-badge&logo=Solidity&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+![Solidity](https://img.shields.io/badge/-Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=999999)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="19" height="19" alt="Figma" />&nbsp;![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge)&nbsp;
 
 <br/>
 
 ## 📖 Additional Interests
-![Polkadot](https://img.shields.io/badge/-Polkadot-0D1117?style=for-the-badge&logo=polkadot&logoColor=c761ee&labelColor=0D1117)&nbsp;
-![Blockchain](https://img.shields.io/badge/-Blockchain-0D1117?style=for-the-badge&logo=Blockchain.com&logoColor=ff9000&labelColor=0D1117)&nbsp;
+
+![Polkadot](https://img.shields.io/badge/-Polkadot-0D1117?style=for-the-badge&logo=polkadot&logoColor=E6007A)&nbsp;
+![Blockchain](https://img.shields.io/badge/-Blockchain-0D1117?style=for-the-badge&logo=blockchaindotcom&logoColor=F7931A)&nbsp;
 
 <br/>
 
