@@ -67,7 +67,7 @@ A Python CLI for optimizing MTA:SA TXD/DFF assets with RenderWare validation, co
 <sub><code>Python</code> <code>CLI</code> <code>RenderWare</code></sub>
 
 <a href="https://youtu.be/e7iSq0tSUxU">
-  <img src="https://img.shields.io/badge/Watch%20Showcase-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Roptimizer Showcase on YouTube" />
+  <img src="https://img.shields.io/badge/Watch%20Showcase-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Watch Roptimizer Showcase" />
 </a>
 
 
@@ -106,7 +106,8 @@ Custom MTA:SA Lua resources, gameplay interfaces, and FiveM server integrations.
 
 ## 🛠️ Tools
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="19" height="19" alt="Visual Studio" />&nbsp;![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2020--2026-0D1117?style=for-the-badge)&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="20" height="20" alt="Visual Studio" />&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20%7C%202020--2026-0D1117?style=for-the-badge" alt="Visual Studio 2020–2026" />
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6)&nbsp;
 ![macOS](https://img.shields.io/badge/-macOS-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF)&nbsp;
