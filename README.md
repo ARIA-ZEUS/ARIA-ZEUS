@@ -60,7 +60,8 @@ A Laravel-based digital storefront with product publishing, authentication workf
 <sub><code>Laravel</code> <code>PHP</code> <code>MySQL</code></sub>
 
 
-### <img src="https://api.iconify.design/lucide/file-cog.svg?color=%231CE8FF" width="21" height="21" alt="" /> Roptimizer
+
+### <img src="https://api.iconify.design/lucide/file-cog.svg?color=%231CE8FF" width="21" height="21" alt="" /> [Roptimizer](https://github.com/ARIA-ZEUS/Roptimizer-Showcase)
 
 A Python CLI for optimizing MTA:SA TXD/DFF assets with RenderWare validation, configurable optimization profiles, automatic backups, and JSON reporting.
 
