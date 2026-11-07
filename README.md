@@ -55,13 +55,11 @@ My work goes beyond writing features: I handle third-party integrations, deploym
 
 ### <img src="https://api.iconify.design/lucide/store.svg?color=%231CE8FF" width="21" height="21" alt="" /> [RocoShop](https://github.com/ARIA-ZEUS/RocoShop-Showcase)
 
-A production-oriented polyglot commerce platform spanning web applications, custom APIs, machine learning, media processing, and automated operations.
 
-<sub><code>Polyglot</code> <code>PHP / Laravel</code> <code>Python</code> <code>AI / ML</code> <code>APIs</code></sub>
+A polyglot e-commerce platform focused on digital products, customer accounts, payment workflows, custom API integrations, and production automation.
 
-<a href="https://rocoshop.ir">
-  <img src="https://img.shields.io/badge/Visit%20Live%20Platform-0D1117?style=for-the-badge&logo=googlechrome&logoColor=1CE8FF" alt="Visit RocoShop" />
-</a>
+<sub><code>Polyglot</code> <code>PHP / Laravel</code> <code>Python</code> <code>E-Commerce</code> <code>APIs</code></sub>
+
 
 
 
