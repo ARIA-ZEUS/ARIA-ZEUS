@@ -3,7 +3,8 @@
 <!-- INTRO -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+ARIA+ZEUS;SOFTWARE+ENGINEER;FULL-STACK+DEVELOPER;SYSTEM+ARCHITECTURE+%26+AUTOMATION;CEO+OF+ZEUS+DEVELOPMENT+TEAM)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1CE8FF&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+ARIA+ZEUS;SOFTWARE+ENGINEER;FULL-STACK+DEVELOPER;SYSTEM+ARCHITECTURE+%26+AUTOMATION;CEO+OF+ZEUS+DEVELOPMENT+TEAM)
+
 
 </div>
 
