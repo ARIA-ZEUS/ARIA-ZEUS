@@ -44,9 +44,6 @@ My work goes beyond writing features: I handle third-party integrations, deploym
     <img src="./profile/trophy.svg" alt="GitHub activity trophies" />
   </a>
 </p>
-<p align="center">
-  <sub>Community-generated GitHub trophies · <a href="https://github.com/soulteary/github-profile-trophy">Open-source project</a></sub>
-</p>
 
 
 
